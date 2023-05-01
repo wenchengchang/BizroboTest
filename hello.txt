@@ -1,0 +1,8 @@
+https://internal.bizrobo.com/redmine/issues/27752
+Robot Life Cycle Management機能テスト
+
+
+
+https://internal.bizrobo.com/redmine/issues/29927
+ユーザー＆グループ紐づけ言語テスト
+
